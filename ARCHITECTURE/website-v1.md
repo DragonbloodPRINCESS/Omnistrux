@@ -49,6 +49,7 @@ Use a static, content-first stack:
 7. About / Author
    - Kristal Cornwell as author, engineer, systems thinker, musician, community advocate, independent researcher, and creator of the framework.
    - Mention books and creative work without distracting from the public launch.
+   - Include secondary creator CTAs for Ko-fi, PayPal, and Princess Dragonblood where verified links are available.
 
 8. Contact
    - General contact and stakeholder enquiry.
@@ -57,6 +58,25 @@ Use a static, content-first stack:
 9. Privacy, Consent, and Transparency
    - Explain what data is collected, why, who can access it, how it is used, how long it may be kept, and how withdrawal/correction can be requested.
    - Include public claim and fundraising transparency notes.
+
+## CTA Model
+
+Use `PUBLICATIONS/cta-framework.md` as the source of truth for button hierarchy, page placement, and copy.
+
+The website must clearly separate:
+
+- Community care support: the approved GoFundMe for Freya's Community of Kindness / Community of Kindness Lunchies.
+- Creator support: Kristal's Ko-fi and PayPal, supporting her writing, music, recovery, creative continuity, and ecosystem development.
+- Persona/creative pathway: Princess Dragonblood, supporting music and creative identity exploration.
+
+Do not merge these into one generic "support" CTA. Each button must name its recipient or purpose.
+
+Required verified URL keys before launch:
+
+- `COMMUNITY_GOFUNDME_URL`
+- `KOFI_URL`
+- `PAYPAL_URL`
+- `PRINCESS_DRAGONBLOOD_URL`
 
 ## Form Requirements
 
