@@ -29,8 +29,20 @@ Google Drive remains the protected source archive for original PDFs, DOCX files,
 - Diamond Soul Constellation: plain-language architecture connecting story, care, place, creativity, participation, and ethical technology.
 - OmniStrux and CareX: governance, coordination, consent, and ethical data layers for later expansion.
 
+## CTA Framework
+
+Support pathways are defined in `PUBLICATIONS/cta-framework.md`.
+
+The launch must clearly separate:
+
+- Community care support through the approved GoFundMe for Freya's Community of Kindness / Community of Kindness Lunchies.
+- Creator support through Kristal's Ko-fi and PayPal.
+- Creative/persona exploration through Princess Dragonblood.
+
+No public page should merge these into one unclear support request.
+
 ## Release Standard
 
-Before any page, form, campaign, fundraiser, or public claim goes live, it must pass the release checklist in `GOVERNANCE/release-checklist.md`.
+Before any page, form, campaign, fundraiser, support CTA, or public claim goes live, it must pass the release checklist in `GOVERNANCE/release-checklist.md`.
 
 The centre is not attention. The centre is care made usable.
