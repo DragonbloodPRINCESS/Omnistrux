@@ -29,7 +29,7 @@ The story should invite action without turning hardship into marketing content.
 
 5. Support prompts
    - Place prompts at the beginning, after major sections, and at the end.
-   - Use language such as: "If this story moved you, support practical care in Fremantle through approved pathways." 
+   - Use language such as: "If this story moved you, support practical care in Fremantle through approved pathways."
    - Do not interrupt the most vulnerable sections with conversion prompts.
 
 6. Community of Kindness explanation
@@ -40,6 +40,7 @@ The story should invite action without turning hardship into marketing content.
 7. Author note and books
    - Include author note after the story.
    - Mention related books or creative works as context, not as the primary conversion goal.
+   - Include Ko-fi, PayPal, and Princess Dragonblood links only as clearly separate creator/creative CTAs.
 
 8. Share campaign
    - Provide simple share text.
@@ -52,6 +53,8 @@ Use direct, transparent language:
 - "Support practical community care."
 - "Help provide meals, connection, dignity, and local support where approved pathways are confirmed."
 - "Register to volunteer, contribute goods, or receive updates."
+- "Support Kristal's creative work."
+- "Explore Princess Dragonblood."
 
 Avoid:
 
@@ -60,6 +63,55 @@ Avoid:
 - exaggerated claims
 - unapproved partnership language
 - implying all donations are authorised before confirmation
+- implying Ko-fi or PayPal support goes to Community of Kindness unless that is explicitly true
+
+## CTA Placement
+
+Use `PUBLICATIONS/cta-framework.md` as the detailed CTA source of truth.
+
+Recommended order on the story page:
+
+1. Read the story.
+2. Support Community of Kindness through the approved GoFundMe, if approval and accountability are confirmed.
+3. Register for updates or Living Layers.
+4. Support Kristal's creative work via Ko-fi or PayPal.
+5. Explore Princess Dragonblood as the creative/persona layer.
+
+### Community GoFundMe CTA
+
+Button options:
+
+- Support Community of Kindness
+- Donate to Community of Kindness
+- Help Fund Community Lunches
+
+Required note:
+
+> Donations through this link support Freya's Community of Kindness / Community of Kindness Lunchies through the approved fundraising pathway. Please check the fundraiser page for recipient, purpose, and accountability details.
+
+### Ko-fi / PayPal CTA
+
+Button options:
+
+- Support Kristal's Work
+- Support the Author
+- Buy Kristal a Coffee
+
+Required note:
+
+> Ko-fi and PayPal support Kristal Cornwell's creative work, writing, music, recovery, continuity, and the development of this ecosystem. These are separate from Community of Kindness donations.
+
+### Princess Dragonblood CTA
+
+Button options:
+
+- Explore Princess Dragonblood
+- Listen to Princess Dragonblood
+- Enter the Creative Layer
+
+Required note:
+
+> Princess Dragonblood is Kristal's music and creative persona. This pathway connects to the wider creative body of work and should remain distinct from community fundraising.
 
 ## Editorial Guardrails
 
@@ -78,6 +130,8 @@ Measure more than money:
 - approved donations or meals supported
 - volunteer interest
 - goods/resource offers
+- Ko-fi / PayPal creator support clicks
+- Princess Dragonblood creative pathway clicks
 - stakeholder conversations
 - Living Layers registrations
 - TimeShift Freo expressions of interest
